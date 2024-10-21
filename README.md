@@ -14,3 +14,4 @@ This is a dummy REST API built with Node.js, Express, ESLint, and Prettier.
 1. Install dependencies:
    ```bash
    npm install
+   added 
