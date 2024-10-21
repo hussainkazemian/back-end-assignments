@@ -1,4 +1,4 @@
-const http = require('http');
+import http from 'http';
 
 const data = [
   { id: 1, name: 'Item 1' },
